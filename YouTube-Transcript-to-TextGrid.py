@@ -1,10 +1,10 @@
 # Welcome to the youtube_to_textgrid.py script! 
 
-# Vargo, Julian (2024). Youtube Transcript to TextGrid Converter [Python Script].
+# Vargo, Julian (2024). YouTube Transcript to TextGrid Converter [Python Script].
 # Department of Spanish & Portuguese. University of California, Berkeley.
 
 # REQUIREMENTS:
-    # Req 1) A .txt file in the format below. You can get this by opening a youtube video and copy-pasting the transcript into NotePad or TextEdit and saving it as a .txt
+    # Req 1) A .txt file in the format below. You can get this by opening a YouTube video and copy-pasting the transcript into NotePad or TextEdit and saving it as a .txt
         # 00:00
         # Hello my name is Julian Vargo
         # 00:02
@@ -15,7 +15,7 @@
 # Copy and paste file paths for input_txt_path, audio_file_path into the script below.
 # Write up a desired output path. The script will be writing up a new file for you, so you get to decide where it goes and what it's called.
 # Save your script
-# Run the script in your python environment
+# Run the script in your Python environment
 # Open the output .TextGrid file in Praat with your .wav file!
 
 # USAGE:
@@ -24,9 +24,9 @@
 # The output TextGrids are set up for usage in a forced aligner for bulk acoustic analysis of speech data.
 # The script currently cannot handle videos over 1 hour in length or transcripts with milliseconds.
 
-input_txt_path = r'C:\Users\julia\Downloads\coding\python_scripts\youtube_to_textgrid\rainbolt_test.txt'
-audio_file_path = r'C:\Users\julia\Downloads\coding\python_scripts\youtube_to_textgrid\rainbolt_test.wav'
-output_textgrid_path = r'C:\Users\julia\Downloads\coding\python_scripts\youtube_to_textgrid\output.TextGrid'
+input_txt_path = r'C:\Users\julia\Downloads\coding\python_scripts\youtube_to_textgrid\input_text_file.txt'
+audio_file_path = r'C:\Users\julia\Downloads\coding\python_scripts\youtube_to_textgrid\input_audio_file.wav'
+output_textgrid_path = r'C:\Users\julia\Downloads\coding\python_scripts\youtube_to_textgrid\desired_name_of_output_textgrid.TextGrid'
 
 import wave
 
