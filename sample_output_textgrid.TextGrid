@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 22.933333
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phrases"
+		xmin = 0
+		xmax = 22.933333
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0.000000
+			xmax = 1.000000
+			text = "today what we're going to do is we're"
+		intervals [2]:
+			xmin = 1.000000
+			xmax = 2.000000
+			text = "going to try and find all five of these"
+		intervals [3]:
+			xmin = 2.000000
+			xmax = 4.000000
+			text = "locations right here in under 30 minutes"
+		intervals [4]:
+			xmin = 4.000000
+			xmax = 6.000000
+			text = "Belling cat has a new open source"
+		intervals [5]:
+			xmin = 6.000000
+			xmax = 7.000000
+			text = "challenge where every single day they"
+		intervals [6]:
+			xmin = 7.000000
+			xmax = 9.000000
+			text = "release a new challenge for the public"
+		intervals [7]:
+			xmin = 9.000000
+			xmax = 11.000000
+			text = "to try and solve and you can basically"
+		intervals [8]:
+			xmin = 11.000000
+			xmax = 13.000000
+			text = "click it type in your solution and if"
+		intervals [9]:
+			xmin = 13.000000
+			xmax = 16.000000
+			text = "it's right it tells you but I let 5 days"
+		intervals [10]:
+			xmin = 16.000000
+			xmax = 18.000000
+			text = "go by so I could try and speedrun to see"
+		intervals [11]:
+			xmin = 18.000000
+			xmax = 20.000000
+			text = "if I could do all five of these in 30"
+		intervals [12]:
+			xmin = 20.000000
+			xmax = 22.933333
+			text = "minutes quite frankly these do"
