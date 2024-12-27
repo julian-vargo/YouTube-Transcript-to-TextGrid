@@ -15,15 +15,13 @@ This script converts a YouTube transcript and its corresponding audio file into 
 
 1. **Transcript File (.txt):**  
    A `.txt` file in the format below, obtained by copying the YouTube video transcript into a plain text editor (e.g., NotePad or TextEdit) and saving it as a `.txt` file:
+
 0:00  
 Hi my name is Julian Vargo and  
-
 0:01  
 I am a phonetician at  
-
 0:02  
 UC Berkeley's Spanish & Portuguese department.  
-
 0:04  
 You can email me if you have any questions!  
 
