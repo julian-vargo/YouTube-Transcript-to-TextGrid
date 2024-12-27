@@ -26,8 +26,7 @@ UC Berkeley's Spanish & Portuguese department.
 You can email me if you have any questions!  
 
 
-
-3. **Audio File (.wav):**  
+2. **Audio File (.wav):**  
 A `.wav` file of the audio from the YouTube video. The audio duration must be **greater than or equal** to the transcript duration.
 
 ---
